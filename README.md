@@ -8,10 +8,9 @@ Bem-vindo(a) ao meu repositório de soluções do LeetCode! Este espaço é dedi
   <a href="https://github.com/KauaGabriell">
     <img src="https://img.shields.io/badge/Autor-KauaGabriell-blue?style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/u/SEU-USUARIO-LEETCODE/">
+  <a href="https://leetcode.com/u/KauaGabriell/">
     <img src="https://img.shields.io/badge/LeetCode-Visitar_Perfil-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <img src="https://img.shields.io/github/last-commit/KauaGabriell/leetcode?style=for-the-badge&logo=github" />
 </p>
 
 ---
